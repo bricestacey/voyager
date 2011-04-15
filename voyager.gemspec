@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Brice Stacey"]
   s.email       = ["bricestacey@gmail.com"]
-  s.homepage    = "https://github.com/bricestacey/activerecord-voyager-adapter"
+  s.homepage    = "https://github.com/bricestacey/voyager"
   s.summary     = %q{ActiveRecord bindings for Voyager ILS}
   s.description = %q{ActiveRecord bindings for Voyager ILS}
 
